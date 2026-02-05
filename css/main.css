@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Barriecito&family=Poppins:wght@300;400;600&display=swap");
+
+body {
+  width: 500px;
+  font-family: "Poppins";
+}
+
+.title {
+  font-family: "Barriecito";
+  font-size: 1.6em;
+}
+
+.list-title {
+  font-weight: 600;
+  font-size: 0.9em;
+}
+
+.color-purple {
+  color: #7434f9;
+}
+
+.text-bg-purple {
+  color: #fff;
+  background-color: #7434f9;
+}

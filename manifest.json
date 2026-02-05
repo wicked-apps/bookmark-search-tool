@@ -1,0 +1,16 @@
+{
+    "name": "Bookmark Search Tool",
+    "version": "1.0",
+    "manifest_version": 3,
+    "permissions": [
+        "bookmarks"
+    ],
+    "action": {
+        "default_icon": {
+            "16": "assets/bst_logo.png",
+             "48": "assets/bst_logo.png",
+             "128": "assets/bst_logo.png"
+        },
+        "default_popup": "popup.html"
+    }
+}
