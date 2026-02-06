@@ -1,4 +1,5 @@
 const input = document.getElementById("searchInput");
+input.focus();
 const resultsList = document.getElementById("results");
 const clearButton = document.getElementById("clearButton");
 
